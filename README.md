@@ -1,6 +1,6 @@
 # air_bootrom
 
-This contains the required files to bypass Download Agent Authentication and Serial Link authentication and allows you to unbrick your devices without using paid tools 
+This contains the required files to pass Download Agent Authentication and allows you to unbrick your devices if you had engineering preloader flashed :/
 Works on Devices with codename `air`:-  
 - Redmi 13C 5G  
 - Redmi 13R 5G  
